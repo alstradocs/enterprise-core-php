@@ -15,7 +15,7 @@ You need to have Composer installed.
 Add to your project by running the following.
 
 ```
-composer require alstradocs/enterprise
+composer require alstradocs/enterprise-core-php
 ```
 
 ## Authors
